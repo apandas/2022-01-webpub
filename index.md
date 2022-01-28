@@ -13,4 +13,4 @@ author: "Amanda"
 
 [About Page](about.md)
 
-{% includes footer.html %}
+{% include footer.html %}
