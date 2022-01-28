@@ -4,8 +4,6 @@ title: "Jan 2022 Webpub Homepage"
 author: "Amanda"
 ---
 
-{% include navigation.html %}
-
 # Building Websites With GitHub
 
 ### Description
