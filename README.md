@@ -13,3 +13,9 @@ Other Carpentries lessons include...
 - Software Carpentry
 - Data Carpentry
 - Library Carpentry
+
+##    Another second level heading
+
+Some text under that second level heading that includes an [link](https://carpentries.org/) and ~~strikethrough text~~ .
+
+    grey box
