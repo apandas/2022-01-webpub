@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 # About this Site
  
 ## Project
@@ -8,5 +6,3 @@
 This site is built by Amanda, and was made to practice and instruct on webpublishing.
 
 [Home Page](index.md)
-
-{% include footer.html %}
