@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # About this Site
  
 ## Project
